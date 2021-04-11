@@ -85,7 +85,7 @@ func (r repo) Title() string {
 	case r.Forks == 0 && r.Stars > 0:
 		return more(r.Stars, "star")
 	case r.Stars == 0 && r.Forks > 0:
-		return more(r.Stars, "fork")
+		return more(r.Forks, "fork")
 	default:
 		return ""
 	}
