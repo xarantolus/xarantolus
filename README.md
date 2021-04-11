@@ -11,13 +11,11 @@ These are server applications I host on my Raspberry Pi
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs 
 
 #### Bots
-Twitter bots are a nice to deliver information
 
 - [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Einträgen von Politikern postet
 - [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot): Twitter bot that retweets relevant info about the SpaceX Starship
 
 #### Android
-Some tweaks I apply to my phone
 
 - [backtap](https://github.com/xarantolus/backtap): Magisk Module to make the fingerprint sensor a bit more useful
 - [filtrite](https://github.com/xarantolus/filtrite): Custom AdBlock filterlist generator for Bromite
