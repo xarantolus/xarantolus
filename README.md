@@ -17,7 +17,7 @@ These are server applications I host on my Raspberry Pi
 
 #### Android
 
-- [backtap](https://github.com/xarantolus/backtap "0 forks"): Magisk Module to make the fingerprint sensor a bit more useful
+- [backtap](https://github.com/xarantolus/backtap "one fork"): Magisk Module to make the fingerprint sensor a bit more useful
 - [filtrite](https://github.com/xarantolus/filtrite "one star, 5 forks"): Custom AdBlock filterlist generator for Bromite
 - [nitterizeme-fork](https://github.com/xarantolus/nitterizeme-fork): Fork of [nitterizeme](https://framagit.org/tom79/nitterizeme) to change URL resolving
 
