@@ -1,5 +1,7 @@
 set -e
 
+git pull
+
 cd _generate
 
 # Regenerate the README file
@@ -11,8 +13,6 @@ cd ..
 
 git config --global user.name 'xarantolus'
 git config --global user.email '32465636+xarantolus@users.noreply.github.com'
-
-git pull
 
 # Add the file
 git add README.md
