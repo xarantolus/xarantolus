@@ -23,3 +23,5 @@ jobs:
       shell: bash
       run: |
         bash ./generate.sh
+      continue-on-error: true
+      
