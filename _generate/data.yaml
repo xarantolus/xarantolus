@@ -8,13 +8,11 @@ categories:
       - reeesolve
 
   - name: Bots
-    desc: Twitter bots are a nice to deliver information
     repos:
       - poliwiki
       - spacex-hop-bot
 
   - name: Android
-    desc: Some tweaks I apply to my phone
     repos:
       - backtap
       - filtrite
