@@ -4,5 +4,5 @@ Hi, here you can find an overview of my projects.
 #### {{.Name}}{{with .Description}}
 {{.}}{{end}}
 {{range .Repos}}
-- {{with . | repo}}[{{.Name}}]({{.Link}}): {{.Desc | transform}}{{end}}{{end}}
+- {{with . | repo}}[{{.Name}}]({{.Link}}{{with .Title}} "{{.}}"{{end}}): {{.Desc | transform}}{{end}}{{end}}
 {{end}}

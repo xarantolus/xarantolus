@@ -73,6 +73,30 @@ type repo struct {
 	Name string `json:"name"`
 	Link string `json:"html_url"`
 	Desc string `json:"description"`
+
+	Stars int `json:"stargazers_count"`
+	Forks int `json:"forks_count"`
+}
+
+func (r repo) Title() string {
+	switch {
+	case r.Forks > 0 && r.Stars > 0:
+		return more(r.Stars, "star") + ", " + more(r.Forks, "fork")
+	case r.Forks == 0 && r.Stars > 0:
+		return more(r.Stars, "star")
+	case r.Stars == 0 && r.Forks > 0:
+		return more(r.Stars, "fork")
+	default:
+		return ""
+	}
+}
+
+func more(count int, s string) string {
+	if count == 1 {
+		return fmt.Sprintf("one %s", s)
+	} else {
+		return fmt.Sprintf("%d %ss", count, s)
+	}
 }
 
 func githubRepos() (repos []repo, err error) {
