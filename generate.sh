@@ -8,6 +8,10 @@ go run .
 
 cd ..
 
+
+git config --global user.name 'xarantolus'
+git config --global user.email '32465636+xarantolus@users.noreply.github.com'
+
 # Add the file
 git add README.md
 
