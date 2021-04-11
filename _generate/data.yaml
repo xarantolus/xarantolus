@@ -1,0 +1,34 @@
+categories:
+  - name: Servers
+    desc: These are server applications I host on my Raspberry Pi
+    repos:
+      - Collect
+      - sensibleHub
+      - upduck
+      - reeesolve
+
+  - name: Bots
+    desc: Twitter bots are a nice to deliver information
+    repos:
+      - poliwiki
+      - spacex-hop-bot
+
+  - name: Android
+    desc: Some tweaks I apply to my phone
+    repos:
+      - backtap
+      - filtrite
+      - nitterizeme-fork
+
+  - name: Robotics
+    desc: I like building software that can act in the real world, like rovers
+    repos:
+      - gover
+
+  - name: "Other"
+    desc: Mostly libraries and other tools
+    repos:
+      - jsonextract
+      - subresource_filter_tools
+      - go-tools
+      - ImageSort
