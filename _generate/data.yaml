@@ -19,12 +19,10 @@ categories:
       - nitterizeme-fork
 
   - name: Robotics
-    desc: I like building software that can act in the real world, like rovers
     repos:
       - gover
 
   - name: "Other"
-    desc: Mostly libraries and other tools
     repos:
       - jsonextract
       - subresource_filter_tools
