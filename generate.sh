@@ -11,8 +11,8 @@ go run .
 cd ..
 
 
-git config --global user.name 'xarantolus'
-git config --global user.email '32465636+xarantolus@users.noreply.github.com'
+git config --global user.name 'github-actions'
+git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
 # Add the file
 git add README.md
