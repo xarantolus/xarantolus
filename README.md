@@ -22,12 +22,10 @@ These are server applications I host on my Raspberry Pi
 - [nitterizeme-fork](https://github.com/xarantolus/nitterizeme-fork): Fork of [nitterizeme](https://framagit.org/tom79/nitterizeme) to change URL resolving
 
 #### Robotics
-I like building software that can act in the real world, like rovers
 
 - [gover](https://github.com/xarantolus/gover "one star, one fork"): Raspberry Pi powered rover that can be controlled using a smartphone, PC or Xbox controller
 
 #### Other
-Mostly libraries and other tools
 
 - [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
 - [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools): Scripts that build Chromium's subresource_filter_tools. They can be used to generate filterlists for Ad Blockers
