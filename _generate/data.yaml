@@ -7,11 +7,6 @@ categories:
       - upduck
       - reeesolve
 
-  - name: Bots
-    repos:
-      - poliwiki
-      - spacex-hop-bot
-
   - name: Android
     repos:
       - backtap
@@ -21,6 +16,11 @@ categories:
   - name: Robotics
     repos:
       - gover
+
+  - name: Bots
+    repos:
+      - poliwiki
+      - spacex-hop-bot
 
   - name: "Other"
     repos:
