@@ -10,11 +10,6 @@ These are server applications I host on my Raspberry Pi
 - [upduck](https://github.com/xarantolus/upduck "53 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs 
 
-#### Bots
-
-- [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Einträgen von Politikern postet
-- [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star"): Twitter bot that retweets relevant info about the SpaceX Starship
-
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one fork"): Magisk Module to make the fingerprint sensor a bit more useful
@@ -24,6 +19,11 @@ These are server applications I host on my Raspberry Pi
 #### Robotics
 
 - [gover](https://github.com/xarantolus/gover "one star, one fork"): Raspberry Pi powered rover that can be controlled using a smartphone, PC or Xbox controller
+
+#### Bots
+
+- [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Einträgen von Politikern postet
+- [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star"): Twitter bot that retweets relevant info about the SpaceX Starship
 
 #### Other
 
