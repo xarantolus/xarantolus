@@ -5,7 +5,7 @@ Hi, here you can find an overview of my projects.
 #### Servers
 These are server applications I host on my Raspberry Pi
 
-- [Collect](https://github.com/xarantolus/Collect "49 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
+- [Collect](https://github.com/xarantolus/Collect "50 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
 - [sensibleHub](https://github.com/xarantolus/sensibleHub "6 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [upduck](https://github.com/xarantolus/upduck "54 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs 
