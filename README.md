@@ -5,7 +5,7 @@ Hi, here you can find an overview of my projects.
 #### Servers
 These are server applications I host on my Raspberry Pi
 
-- [Collect](https://github.com/xarantolus/Collect "50 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
+- [Collect](https://github.com/xarantolus/Collect "51 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
 - [sensibleHub](https://github.com/xarantolus/sensibleHub "6 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [upduck](https://github.com/xarantolus/upduck "54 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs 
@@ -13,7 +13,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "4 stars, 12 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "4 stars, 13 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
