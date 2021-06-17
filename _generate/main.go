@@ -130,6 +130,8 @@ func search(repos []repo, name string) repo {
 var urlRegex = regexp.MustCompile(`https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)`)
 
 func transformString(s string) string {
+	s = strings.TrimSpace(s)
+
 	u := urlRegex.FindString(s)
 
 	if u == "" {
