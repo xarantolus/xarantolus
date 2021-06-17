@@ -8,7 +8,7 @@ These are server applications I host on my Raspberry Pi
 - [Collect](https://github.com/xarantolus/Collect "51 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
 - [sensibleHub](https://github.com/xarantolus/sensibleHub "6 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [upduck](https://github.com/xarantolus/upduck "54 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
-- [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs 
+- [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
 
@@ -27,7 +27,7 @@ These are server applications I host on my Raspberry Pi
 #### Other
 
 - [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
-- [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools):  Scripts that build Chromium's subresource_filter_tools. They can be used to generate filterlists for Ad Blockers
+- [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools): Scripts that build Chromium's subresource_filter_tools. They can be used to generate filterlists for Ad Blockers
 - [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 
