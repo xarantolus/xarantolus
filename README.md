@@ -13,7 +13,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "6 stars, 24 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "6 stars, 25 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -21,7 +21,7 @@ These are server applications I host on my Raspberry Pi
 
 #### Bots
 
-- [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Einträgen von Politikern postet
+- [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
 - [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star"): Twitter bot that retweets relevant info about the SpaceX Starship
 
 #### Other
