@@ -29,5 +29,6 @@ These are server applications I host on my Raspberry Pi
 - [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
 - [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools. They can be used to generate filterlists for Ad Blockers
 - [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
+- [userchrome.css](https://github.com/xarantolus/userchrome.css "2 stars, one fork"): Firefox Proton userChrome.css customizations
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 
