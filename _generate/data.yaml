@@ -26,4 +26,5 @@ categories:
       - jsonextract
       - subresource_filter_tools
       - go-tools
+      - userchrome.css
       - ImageSort
