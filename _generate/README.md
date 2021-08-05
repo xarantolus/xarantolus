@@ -1,4 +1,4 @@
-Hi, here you can find an overview of my projects.
+Hi, I'm Philipp and I like writing web servers, tinkering with my phone, building robots (and electronics in general!), automation and a bunch of other stuff. Take a look around :)
 
 {{ range .Categories }}
 #### {{.Name}}{{with .Description}}
