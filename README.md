@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT. File is auto-generated -->
-Hi, I'm Philipp and I like writing web servers, tinkering with my phone, building robots (and electronics in general!), automation and a bunch of other stuff. Take a look around :)
+Hi, I'm Philipp and I like writing web servers, tinkering with my phone, building robots (and electronics in general!), automation and a bunch of other stuff. You might also be interested in my [blog](https://xarantolus.github.io/blog/) where I sometimes write guides. Anyways, take a look around :)
 
 
 #### Servers
@@ -13,7 +13,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "36 stars, 57 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "35 stars, 57 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
