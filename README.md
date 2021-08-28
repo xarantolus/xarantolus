@@ -2,6 +2,10 @@
 Hi, I'm Philipp and I like writing web servers, tinkering with my phone, building robots (and electronics in general!), automation and a bunch of other stuff. You might also be interested in my [blog](https://xarantolus.github.io/blog/) where I sometimes write guides. Anyways, take a look around :)
 
 
+<details>
+  <summary>See an overview of my projects</summary>
+
+
 #### Servers
 These are server applications I host on my Raspberry Pi
 
@@ -13,7 +17,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "35 stars, 57 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "35 stars, 58 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -32,3 +36,5 @@ These are server applications I host on my Raspberry Pi
 - [userchrome.css](https://github.com/xarantolus/userchrome.css "3 stars, one fork"): Firefox Proton userChrome.css customizations
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 
+
+</details>
