@@ -21,10 +21,15 @@ categories:
       - poliwiki
       - spacex-hop-bot
 
+  - name: Developer tools
+    repos:
+      - MemeAssembly-vscode
+      - go-tools
+      - jsonextract
+
+
   - name: "Other"
     repos:
-      - jsonextract
-      - subresource_filter_tools
-      - go-tools
       - userchrome.css
       - ImageSort
+      - subresource_filter_tools
