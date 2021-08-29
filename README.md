@@ -28,13 +28,17 @@ These are server applications I host on my Raspberry Pi
 - [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
 - [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star, one fork"): Twitter bot that retweets relevant info about the SpaceX Starship
 
+#### Developer tools
+
+- [MemeAssembly-vscode](https://github.com/xarantolus/MemeAssembly-vscode "one star"): VSCode extension for MemeAssembly developers
+- [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
+- [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
+
 #### Other
 
-- [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
-- [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
-- [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
 - [userchrome.css](https://github.com/xarantolus/userchrome.css "3 stars, one fork"): Firefox Proton userChrome.css customizations
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
+- [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 
 
 </details>
