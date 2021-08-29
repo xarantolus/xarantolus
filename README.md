@@ -3,7 +3,7 @@ Hi, I'm Philipp and I like writing web servers, tinkering with my phone, buildin
 
 
 <details>
-  <summary>See an overview of my projects</summary>
+  <summary>Open this or visit <a href="https://xarantolus.github.io/">my website</a> to see an overview of my projects</summary>
 
 
 #### Servers
