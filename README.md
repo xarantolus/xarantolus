@@ -9,15 +9,15 @@ Hi, I'm Philipp and I like writing web servers, tinkering with my phone, buildin
 #### Servers
 These are server applications I host on my Raspberry Pi
 
-- [Collect](https://github.com/xarantolus/Collect "53 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
-- [sensibleHub](https://github.com/xarantolus/sensibleHub "6 stars"): self-hosted music management server with a web and FTP interface (offline listening)
-- [upduck](https://github.com/xarantolus/upduck "75 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
+- [Collect](https://github.com/xarantolus/Collect "54 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
+- [sensibleHub](https://github.com/xarantolus/sensibleHub "8 stars"): self-hosted music management server with a web and FTP interface (offline listening)
+- [upduck](https://github.com/xarantolus/upduck "92 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "36 stars, 62 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "36 stars, 63 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
