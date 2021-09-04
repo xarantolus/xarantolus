@@ -1,17 +1,17 @@
 <!-- DO NOT EDIT. File is auto-generated -->
-Hi, I'm Philipp and I like writing web servers, tinkering with my phone, building robots (and electronics in general!), automation and a bunch of other stuff. You might also be interested in my [blog](https://xarantolus.github.io/blog/) where I sometimes write guides. Anyways, take a look around :)
+Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff. You might also be interested in [my blog](https://xarantolus.github.io/blog/) where I sometimes write about technical stuff. Anyways, take a look around :)
 
 
 <details>
-  <summary>Open this or visit <a href="https://xarantolus.github.io/">my website</a> to see an overview of my projects</summary>
+  <summary>Open this or <a href="https://xarantolus.github.io/">visit my website to see an overview of my projects</a></summary>
 
 
 #### Servers
 These are server applications I host on my Raspberry Pi
 
-- [Collect](https://github.com/xarantolus/Collect "54 stars, 7 forks"): A server to collect & archive websites, also supports video downloads
+- [Collect](https://github.com/xarantolus/Collect "54 stars, 7 forks"): A server to collect & archive websites that also supports video downloads
 - [sensibleHub](https://github.com/xarantolus/sensibleHub "8 stars"): self-hosted music management server with a web and FTP interface (offline listening)
-- [upduck](https://github.com/xarantolus/upduck "94 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
+- [upduck](https://github.com/xarantolus/upduck "96 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
