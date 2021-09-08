@@ -26,7 +26,7 @@ These are server applications I host on my Raspberry Pi
 #### Bots
 
 - [poliwiki](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
-- [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star, one fork"): Twitter bot that retweets relevant info about the SpaceX Starship
+- [spacex-hop-bot](https://github.com/xarantolus/spacex-hop-bot "one star, one fork"): Twitter bot that (re)tweets relevant info about the SpaceX Starship
 
 #### Developer tools
 
