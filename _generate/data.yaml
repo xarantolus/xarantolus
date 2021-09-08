@@ -20,6 +20,7 @@ categories:
     repos:
       - poliwiki
       - spacex-hop-bot
+      - rfa-launch-bot
 
   - name: Developer tools
     repos:
