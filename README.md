@@ -37,7 +37,7 @@ These are server applications I host on my Raspberry Pi
 
 #### Other
 
-- [userchrome.css](https://github.com/xarantolus/userchrome.css "3 stars, one fork"): Firefox Proton userChrome.css customizations
+- [userchrome.css](https://github.com/xarantolus/userchrome.css "3 stars"): Firefox Proton userChrome.css customizations
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 - [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 
