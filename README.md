@@ -17,7 +17,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [filtrite](https://github.com/xarantolus/filtrite "36 stars, 62 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "36 stars, 63 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -31,7 +31,7 @@ These are server applications I host on my Raspberry Pi
 
 #### Developer tools
 
-- [MemeAssembly-vscode](https://github.com/xarantolus/MemeAssembly-vscode "one star"): VSCode extension for MemeAssembly developers
+- [MemeAssembly-vscode](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
 - [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
 - [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
 
