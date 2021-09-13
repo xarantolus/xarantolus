@@ -25,6 +25,7 @@ categories:
 
   - name: Developer tools
     repos:
+      - action-autoland
       - MemeAssembly-vscode
       - go-tools
       - jsonextract
