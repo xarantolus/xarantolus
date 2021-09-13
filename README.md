@@ -32,6 +32,7 @@ These are server applications I host on my Raspberry Pi
 
 #### Developer tools
 
+- [action-autoland](https://github.com/xarantolus/action-autoland): GitHub Action for automatically merging pull requests when another repository merges required changes
 - [MemeAssembly-vscode](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
 - [go-tools](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
 - [jsonextract](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
