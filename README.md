@@ -10,7 +10,7 @@ Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automat
 These are server applications I host on my Raspberry Pi
 
 - [Collect](https://github.com/xarantolus/Collect "54 stars, 7 forks"): A server to collect & archive websites that also supports video downloads
-- [sensibleHub](https://github.com/xarantolus/sensibleHub "8 stars"): self-hosted music management server with a web and FTP interface (offline listening)
+- [sensibleHub](https://github.com/xarantolus/sensibleHub "9 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [upduck](https://github.com/xarantolus/upduck "97 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
