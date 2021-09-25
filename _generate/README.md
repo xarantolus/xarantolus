@@ -1,4 +1,4 @@
-Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff. You might also be interested in [my blog](https://010.one/blog/) where I sometimes write about technical stuff. Anyways, take a look around :)
+Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff. You might also be interested in [my blog](https://blog.010.one) where I sometimes write about technical stuff. Anyways, take a look around :)
 
 
 <details>
