@@ -17,6 +17,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 
 - [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android.
+- [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
 - [filtrite](https://github.com/xarantolus/filtrite "39 stars, 70 forks"): Custom AdBlock filterlist generator for Bromite
 
