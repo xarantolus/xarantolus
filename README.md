@@ -16,10 +16,12 @@ These are server applications I host on my Raspberry Pi
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
+At first I got into lower-level programming for Android by creating a Magisk module, then I started writing apps in Flutter
 
-- [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android.
-- [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
+- [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android.
+- [rockit](https://github.com/xarantolus/rockit): Rock It! is an app that helps you stay informed on all things space
+- [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
 - [filtrite](https://github.com/xarantolus/filtrite "38 stars, 69 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
