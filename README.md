@@ -10,7 +10,7 @@ If you want to install my Android app(s), you can add add [this F-Droid repo](ht
 #### Servers
 These are server applications I host on my Raspberry Pi
 
-- [Collect](https://github.com/xarantolus/Collect "56 stars, 7 forks"): A server to collect & archive websites that also supports video downloads
+- [Collect](https://github.com/xarantolus/Collect "57 stars, 7 forks"): A server to collect & archive websites that also supports video downloads
 - [sensibleHub](https://github.com/xarantolus/sensibleHub "9 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [upduck](https://github.com/xarantolus/upduck "99 stars, one fork"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [reeesolve](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
@@ -22,7 +22,7 @@ At first I got into lower-level programming for Android by creating a Magisk mod
 - [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android.
 - [rockit](https://github.com/xarantolus/rockit): Rock It! is an app that helps you stay informed on all things space
 - [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
-- [filtrite](https://github.com/xarantolus/filtrite "38 stars, 69 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "39 stars, 69 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
