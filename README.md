@@ -21,7 +21,7 @@ These are server applications I host on my Raspberry Pi
 At first I got into lower-level programming for Android by creating a Magisk module, then I started writing apps in Flutter
 
 - [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
-- [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android.
+- [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [rockit](https://github.com/xarantolus/rockit): Rock It! is an app that helps you stay informed on all things space
 - [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
 - [filtrite](https://github.com/xarantolus/filtrite "44 stars, 73 forks"): Custom AdBlock filterlist generator for Bromite
@@ -46,7 +46,7 @@ At first I got into lower-level programming for Android by creating a Magisk mod
 #### Other
 
 - [userchrome.css](https://github.com/xarantolus/userchrome.css "4 stars"): Firefox Proton userChrome.css customizations
-- [asm-bf](https://github.com/xarantolus/asm-bf): abf is a brainfuck interpreter written in x86-64 Assembly
+- [asm-bf](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
 - [ImageSort](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 - [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 
