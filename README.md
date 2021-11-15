@@ -20,7 +20,7 @@ These are server applications I host on my Raspberry Pi
 #### Android
 At first I got into lower-level programming for Android by creating a Magisk module, then I started writing apps in Flutter
 
-- [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk Module to make the fingerprint sensor a bit more useful
+- [backtap](https://github.com/xarantolus/backtap "one star, one fork"): Magisk module that makes the fingerprint sensor on an Android phone more useful
 - [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [rockit](https://github.com/xarantolus/rockit): Rock It! is an app that helps you stay informed on all things space
 - [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
