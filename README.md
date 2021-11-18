@@ -1,12 +1,12 @@
 <!-- DO NOT EDIT. File is auto-generated -->
 Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff.
 
-You might be interested in [my blog](https://blog.010.one) where I sometimes write about technical stuff, or my Android apps. You can install them by adding [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client.
+You might be interested in my Android apps, which you can install by adding this [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client (or just downloading the APK file).
 
-Anyways, take a look around :)
+I also have [a blog](https://blog.010.one) where I sometimes write about technical stuff that interests me :)
 
 <details>
-  <summary>Open this or <a href="https://010.one/">visit my website to see an overview of my projects</a></summary>
+  <summary>Click here to open a list of my projects or <a href="https://010.one/"><b>visit my website for a better overview</b></a></summary>
 
 
 #### Servers
@@ -51,4 +51,6 @@ At first I got into lower-level programming for Android by creating a Magisk mod
 - [subresource_filter_tools](https://github.com/xarantolus/subresource_filter_tools "one star"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 
 
+So you've reached the end of this overview, but maybe you want to visit <a href="https://010.one/"><b>the web site</b></a> now?
+ 
 </details>
