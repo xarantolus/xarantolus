@@ -1,7 +1,7 @@
 <!-- DO NOT EDIT. File is auto-generated -->
 Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff.
 
-You might be interested in my Android apps, which you can install by adding this [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client (or just downloading the APK file).
+You might be interested in my Android apps, which you can install by adding this [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client (or just downloading the APK files).
 
 I also have [a blog](https://blog.010.one) where I sometimes write about technical stuff that interests me :)
 
