@@ -24,7 +24,7 @@ At first I got into lower-level programming for Android by creating a Magisk mod
 - [notality](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [rockit](https://github.com/xarantolus/rockit): Rock It! is an Android app that helps you stay informed on all things space
 - [fdroid](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
-- [filtrite](https://github.com/xarantolus/filtrite "48 stars, 82 forks"): Custom AdBlock filterlist generator for Bromite
+- [filtrite](https://github.com/xarantolus/filtrite "48 stars, 83 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
