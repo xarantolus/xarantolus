@@ -1,6 +1,6 @@
 categories:
   - name: Servers
-    desc: These are server applications I host on my Raspberry Pi
+    desc: These are specialized server applications I host on my Raspberry Pi
     repos:
       - Collect
       - sensibleHub
@@ -8,7 +8,7 @@ categories:
       - reeesolve
 
   - name: Android
-    desc: At first I got into lower-level programming for Android by creating a Magisk module, then I started writing apps in Flutter
+    desc: I started with lower-level stuff by creating a Magisk module that directly interacts with the screen, then I started writing apps using Flutter
     repos:
       - backtap
       - notality
@@ -22,21 +22,23 @@ categories:
 
   - name: Bots
     repos:
-      - poliwiki
       - spacex-hop-bot
       - rfa-launch-bot
+      - poliwiki
 
   - name: Developer tools
     repos:
-      - action-autoland
       - MemeAssembly-vscode
-      - go-tools
       - jsonextract
+      - go-tools
+      - action-autoland
 
-
-  - name: "Other"
+  - name: Other
     repos:
-      - userchrome.css
-      - asm-bf
-      - ImageSort
       - subresource_filter_tools
+      - asm-bf
+      - memeasm
+      - bromite-userscripts
+      - userchrome.css
+      - TUM-userscripts
+      - ImageSort
