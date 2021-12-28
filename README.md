@@ -18,7 +18,7 @@ These are specialized server applications I host on my Raspberry Pi
 #### Android
 I started with lower-level stuff by creating a Magisk module that directly interacts with the screen, then I started writing apps using Flutter
 
-- [**backtap**](https://github.com/xarantolus/backtap "2 stars, one fork"): Magisk module that makes the fingerprint sensor on an Android phone more useful
+- [**backtap**](https://github.com/xarantolus/backtap "2 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
 - [**notality**](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
