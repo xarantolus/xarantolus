@@ -22,7 +22,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**notality**](https://github.com/xarantolus/notality "one star"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "3 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "54 stars, 87 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "55 stars, 87 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -38,7 +38,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 - [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
 - [**jsonextract**](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
-- [**go-tools**](https://github.com/xarantolus/go-tools): Selection of tools that simplify working with the Go programming language
+- [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
 - [**action-autoland**](https://github.com/xarantolus/action-autoland): GitHub Action for automatically merging pull requests when another repository merges required changes
 
 #### Other
