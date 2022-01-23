@@ -10,7 +10,7 @@ I'm also creating a few Android apps. You can add [this F-Droid repo](https://gi
 #### Servers
 These are specialized server applications I host on my Raspberry Pi
 
-- [**Collect**](https://github.com/xarantolus/Collect "57 stars, 7 forks"): A server to collect & archive websites that also supports video downloads
+- [**Collect**](https://github.com/xarantolus/Collect "57 stars, 8 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "9 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
