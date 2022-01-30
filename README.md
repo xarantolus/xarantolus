@@ -12,7 +12,7 @@ These are specialized server applications I host on my Raspberry Pi
 
 - [**Collect**](https://github.com/xarantolus/Collect "57 stars, 8 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "9 stars"): self-hosted music management server with a web and FTP interface (offline listening)
-- [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
+- [**upduck**](https://github.com/xarantolus/upduck "99 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
@@ -22,7 +22,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**notality**](https://github.com/xarantolus/notality "one star"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "3 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "57 stars, 89 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "59 stars, 91 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
