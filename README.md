@@ -46,7 +46,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**subresource_filter_tools**](https://github.com/xarantolus/subresource_filter_tools "2 stars"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 - [**asm-bf**](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
 - [**memeasm**](https://github.com/xarantolus/memeasm "one star"): Programs written in MemeAssembly
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "7 stars"): User scripts for Bromite
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "8 stars"): User scripts for Bromite
 - [**userchrome.css**](https://github.com/xarantolus/userchrome.css "4 stars"): Firefox Proton userChrome.css customizations
 - [**TUM-userscripts**](https://github.com/xarantolus/TUM-userscripts): User scripts for online services of the Technical University of Munich
 - [**ImageSort**](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
