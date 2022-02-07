@@ -19,10 +19,10 @@ These are specialized server applications I host on my Raspberry Pi
 I started with lower-level stuff by creating a Magisk module that directly interacts with the screen, then I started writing apps using Flutter
 
 - [**backtap**](https://github.com/xarantolus/backtap "2 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
-- [**notality**](https://github.com/xarantolus/notality "one star"): A very simple note taking app for Android
+- [**notality**](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "4 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "one star"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "62 stars, 95 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "62 stars, 96 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -43,7 +43,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 #### Other
 
-- [**subresource_filter_tools**](https://github.com/xarantolus/subresource_filter_tools "2 stars"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
+- [**subresource_filter_tools**](https://github.com/xarantolus/subresource_filter_tools "3 stars"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 - [**asm-bf**](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
 - [**memeasm**](https://github.com/xarantolus/memeasm "one star"): Programs written in MemeAssembly
 - [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "8 stars"): User scripts for Bromite
