@@ -37,7 +37,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 #### Developer tools
 
 - [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
-- [**jsonextract**](https://github.com/xarantolus/jsonextract "one star"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
+- [**jsonextract**](https://github.com/xarantolus/jsonextract "3 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
 - [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
 - [**action-autoland**](https://github.com/xarantolus/action-autoland): GitHub Action for automatically merging pull requests when another repository merges required changes
 
