@@ -12,7 +12,7 @@ These are specialized server applications I host on my Raspberry Pi
 
 - [**Collect**](https://github.com/xarantolus/Collect "57 stars, 8 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "10 stars"): self-hosted music management server with a web and FTP interface (offline listening)
-- [**upduck**](https://github.com/xarantolus/upduck "99 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
+- [**upduck**](https://github.com/xarantolus/upduck "98 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
@@ -46,7 +46,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**subresource_filter_tools**](https://github.com/xarantolus/subresource_filter_tools "3 stars"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
 - [**asm-bf**](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
 - [**memeasm**](https://github.com/xarantolus/memeasm "one star"): Programs written in MemeAssembly
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "9 stars"): User scripts for Bromite
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "10 stars"): User scripts for Bromite
 - [**userchrome.css**](https://github.com/xarantolus/userchrome.css "4 stars"): Firefox Proton userChrome.css customizations
 - [**TUM-userscripts**](https://github.com/xarantolus/TUM-userscripts): User scripts for online services of the Technical University of Munich
 - [**ImageSort**](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
