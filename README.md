@@ -18,11 +18,11 @@ These are specialized server applications I host on my Raspberry Pi
 #### Android
 I started with lower-level stuff by creating a Magisk module that directly interacts with the screen, then I started writing apps using Flutter
 
-- [**backtap**](https://github.com/xarantolus/backtap "3 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
+- [**backtap**](https://github.com/xarantolus/backtap "4 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
 - [**notality**](https://github.com/xarantolus/notality): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "4 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "3 stars, one fork"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "89 stars, 124 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "89 stars, 123 forks"): Custom AdBlock filterlist generator for Bromite
 
 #### Robotics
 
@@ -32,7 +32,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 - [**spacex-hop-bot**](https://github.com/xarantolus/spacex-hop-bot "one star, one fork"): Twitter bot that (re)tweets relevant info about the SpaceX Starship
 - [**rfa-launch-bot**](https://github.com/xarantolus/rfa-launch-bot): Twitter bot that (re)tweets relevant information about Rocket Factory Augsburg
-- [**poliwiki**](https://github.com/xarantolus/poliwiki): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
+- [**poliwiki**](https://github.com/xarantolus/poliwiki "one star"): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
 
 #### Developer tools
 
