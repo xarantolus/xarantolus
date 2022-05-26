@@ -15,6 +15,8 @@ categories:
       - rockit
       - fdroid
       - filtrite
+      - filtrite-lists
+      - bromite-userscripts
 
   - name: Robotics
     repos:
@@ -30,8 +32,8 @@ categories:
     repos:
       - MemeAssembly-vscode
       - jsonextract
+      - github-release-stats
       - go-tools
-      - action-autoland
 
   - name: Other
     repos:
