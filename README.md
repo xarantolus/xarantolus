@@ -10,7 +10,7 @@ I'm also creating a few Android apps. You can add [this F-Droid repo](https://gi
 #### Servers
 These are specialized server applications I host on my Raspberry Pi
 
-- [**Collect**](https://github.com/xarantolus/Collect "59 stars, 8 forks"): A server to collect & archive websites that also supports video downloads
+- [**Collect**](https://github.com/xarantolus/Collect "60 stars, 8 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "10 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
@@ -22,7 +22,9 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**notality**](https://github.com/xarantolus/notality "2 stars"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "4 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "4 stars, one fork"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "100 stars, 131 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "100 stars, 130 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists): Bromite filter list search
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "33 stars, one fork"): User scripts for Bromite (mostly enhanced Ad Blocking)
 
 #### Robotics
 
@@ -38,8 +40,8 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 - [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
 - [**jsonextract**](https://github.com/xarantolus/jsonextract "3 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
+- [**github-release-stats**](https://github.com/xarantolus/github-release-stats): Summarize release stats for your repositories
 - [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
-- [**action-autoland**](https://github.com/xarantolus/action-autoland): GitHub Action for automatically merging pull requests when another repository merges required changes
 
 #### Other
 
