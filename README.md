@@ -12,7 +12,7 @@ These are specialized server applications I host on my Raspberry Pi
 
 - [**Collect**](https://github.com/xarantolus/Collect "60 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "10 stars"): self-hosted music management server with a web and FTP interface (offline listening)
-- [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
+- [**upduck**](https://github.com/xarantolus/upduck "99 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
 #### Android
