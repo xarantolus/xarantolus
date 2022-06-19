@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT. File is auto-generated -->
-Hi, I'm Philipp and I like writing web servers, tinkering with my phone, automation and a bunch of other stuff.
+Hi, I'm Philipp and I like writing web servers, x86 assembly, tinkering with my phone, automation and a bunch of other stuff.
 
 I'm also creating a few Android apps. You can add [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client to download them (or just download the APK files from releases of the respective repository).
 
