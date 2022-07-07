@@ -24,7 +24,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**fdroid**](https://github.com/xarantolus/fdroid "4 stars, one fork"): Auto-updating F-Droid repo using GitHub Actions
 - [**filtrite**](https://github.com/xarantolus/filtrite "118 stars, 137 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists): Bromite filter list search
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "48 stars, 2 forks"): User scripts for Bromite (mostly enhanced Ad Blocking)
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "49 stars, 2 forks"): User scripts for Bromite (mostly enhanced Ad Blocking)
 
 #### Robotics
 
