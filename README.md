@@ -39,7 +39,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 #### Developer tools
 
 - [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "one star, one fork"): VSCode extension for MemeAssembly developers
-- [**jsonextract**](https://github.com/xarantolus/jsonextract "4 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
+- [**jsonextract**](https://github.com/xarantolus/jsonextract "5 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
 - [**github-release-stats**](https://github.com/xarantolus/github-release-stats): Summarize release stats for your repositories
 - [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
 
