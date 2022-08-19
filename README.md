@@ -34,7 +34,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 - [**spacex-hop-bot**](https://github.com/xarantolus/spacex-hop-bot "one star, one fork"): Twitter bot that (re)tweets relevant info about the SpaceX Starship
 - [**rfa-launch-bot**](https://github.com/xarantolus/rfa-launch-bot): Twitter bot that (re)tweets relevant information about Rocket Factory Augsburg
-- [**poliwiki**](https://github.com/xarantolus/poliwiki "2 stars"): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
+- [**poliwiki**](https://github.com/xarantolus/poliwiki "3 stars"): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
 
 #### Developer tools
 
