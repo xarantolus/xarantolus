@@ -11,7 +11,7 @@ I'm also creating a few Android apps. You can add [this F-Droid repo](https://gi
 These are specialized server applications I host on my Raspberry Pi
 
 - [**Collect**](https://github.com/xarantolus/Collect "62 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
-- [**sensibleHub**](https://github.com/xarantolus/sensibleHub "11 stars"): self-hosted music management server with a web and FTP interface (offline listening)
+- [**sensibleHub**](https://github.com/xarantolus/sensibleHub "12 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
@@ -49,7 +49,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**asm-bf**](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
 - [**memeasm**](https://github.com/xarantolus/memeasm "one star"): Programs written in MemeAssembly
 - [**userchrome.css**](https://github.com/xarantolus/userchrome.css "7 stars"): Firefox Proton userChrome.css customizations
-- [**TUM-userscripts**](https://github.com/xarantolus/TUM-userscripts): User scripts for online services of the Technical University of Munich
+- [**TUM-userscripts**](https://github.com/xarantolus/TUM-userscripts "one fork"): User scripts for online services of the Technical University of Munich
 - [**ImageSort**](https://github.com/xarantolus/ImageSort "one star"): Sort thousands of images in less time
 
 
