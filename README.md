@@ -11,7 +11,7 @@ I'm also creating a few Android apps. You can add [this F-Droid repo](https://gi
 These are specialized server applications I host on my Raspberry Pi
 
 - [**Collect**](https://github.com/xarantolus/Collect "62 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
-- [**sensibleHub**](https://github.com/xarantolus/sensibleHub "12 stars"): self-hosted music management server with a web and FTP interface (offline listening)
+- [**sensibleHub**](https://github.com/xarantolus/sensibleHub "14 stars"): self-hosted music management server with a web and FTP interface (offline listening)
 - [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve): Server for resolving redirect URLs
 
@@ -22,7 +22,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**notality**](https://github.com/xarantolus/notality "2 stars"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "4 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "5 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "127 stars, 142 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "128 stars, 142 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists): Bromite custom filter list search
 - [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "52 stars, 4 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
 
