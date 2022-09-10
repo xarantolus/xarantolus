@@ -21,8 +21,8 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**backtap**](https://github.com/xarantolus/backtap "4 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
 - [**notality**](https://github.com/xarantolus/notality "2 stars"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "5 stars"): Rock It! is an Android app that helps you stay informed on all things space
-- [**fdroid**](https://github.com/xarantolus/fdroid "5 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "135 stars, 143 forks"): Custom AdBlock filterlist generator for Bromite
+- [**fdroid**](https://github.com/xarantolus/fdroid "6 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
+- [**filtrite**](https://github.com/xarantolus/filtrite "135 stars, 144 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists): Bromite custom filter list search
 - [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "53 stars, 5 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
 
