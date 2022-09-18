@@ -22,9 +22,9 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**notality**](https://github.com/xarantolus/notality "3 stars"): A very simple note taking app for Android
 - [**rockit**](https://github.com/xarantolus/rockit "5 stars"): Rock It! is an Android app that helps you stay informed on all things space
 - [**fdroid**](https://github.com/xarantolus/fdroid "6 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "141 stars, 148 forks"): Custom AdBlock filterlist generator for Bromite
+- [**filtrite**](https://github.com/xarantolus/filtrite "142 stars, 148 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists "one star"): Bromite custom filter list search
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "56 stars, 4 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "58 stars, 4 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
 
 #### Robotics
 
