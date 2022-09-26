@@ -24,7 +24,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**fdroid**](https://github.com/xarantolus/fdroid "6 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
 - [**filtrite**](https://github.com/xarantolus/filtrite "143 stars, 149 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists "one star"): Bromite custom filter list search
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "59 stars, 4 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "60 stars, 4 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
 
 #### Robotics
 
@@ -40,7 +40,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 
 - [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "2 stars, one fork"): VSCode extension for MemeAssembly developers
 - [**jsonextract**](https://github.com/xarantolus/jsonextract "6 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
-- [**github-release-stats**](https://github.com/xarantolus/github-release-stats): Summarize release stats for your repositories
+- [**github-release-stats**](https://github.com/xarantolus/github-release-stats "one star"): Summarize release stats for your repositories
 - [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
 
 #### Other
