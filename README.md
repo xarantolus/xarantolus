@@ -10,7 +10,7 @@ I'm also creating a few Android apps. You can add [this F-Droid repo](https://gi
 #### Servers
 These are specialized server applications I host on my Raspberry Pi
 
-- [**Collect**](https://github.com/xarantolus/Collect "65 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
+- [**Collect**](https://github.com/xarantolus/Collect "66 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
 - [**sensibleHub**](https://github.com/xarantolus/sensibleHub "15 stars"): self-hosted music management server with a web interface and FTP sync for offline listening
 - [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
 - [**reeesolve**](https://github.com/xarantolus/reeesolve "one star"): Server for resolving redirect URLs
@@ -24,7 +24,7 @@ I started with lower-level stuff by creating a Magisk module that directly inter
 - [**fdroid**](https://github.com/xarantolus/fdroid "11 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
 - [**filtrite**](https://github.com/xarantolus/filtrite "170 stars, 163 forks"): Custom AdBlock filterlist generator for Bromite
 - [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists "one star"): Bromite custom filter list search
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "79 stars, 5 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
+- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "79 stars, 7 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
 
 #### Robotics
 
