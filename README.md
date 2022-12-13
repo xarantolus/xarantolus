@@ -1,58 +1,15 @@
-<!-- DO NOT EDIT. File is auto-generated -->
-Hi, I'm Philipp and I like writing web servers, x86 assembly, tinkering with my phone, automation and a bunch of other stuff.
+Hi, I'm Philipp. I'm currently studying computer science at the [Technical University of Munich](https://www.tum.de) and program a lot in my free time.
 
-I'm also creating a few Android apps. You can add [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client to download them (or just download the APK files from releases of the respective repository).
+I like:
+* Computer architecture and low-level programming
+* Building web servers and web apps
+* Writing mobile apps using Flutter
+* Tinkering with electronics (think connecting sensors, motors etc. to Raspberry Pis and other robotics)
 
-<details>
-  <summary>Click here to open a list of my projects or <a href="https://010.one/"><b>visit my website for a better overview</b></a></summary>
+The most technically interesting project you can find on my profile is definitely [my x86-64 emulator for WebAssembly](https://github.com/xarantolus/ax). It allows you to emulate a small x86-64 subset [right in your browser](https://ax.010.one) and powers [another x86 related project of mine](https://github.com/xarantolus/MemeAssembly-playground-vue).
 
+Other than that I've also written a few Android apps, which you can download by adding [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client (or just download the APK releases from GitHub). If you like rockets, you'll feel right at home with my [Space News App](https://github.com/xarantolus/rockit).
 
-#### Servers
-These are specialized server applications I host on my Raspberry Pi
+Additionally, I also like building self-hostable web servers and respective frontends, like my [music sync](https://github.com/xarantolus/sensibleHub) or [web archive](https://github.com/xarantolus/Collect) servers. I've also been getting into more modern web development with VueJS by writing [this GitHub release stats](https://ghstats.010.one/) site as well as a small [filter list search site](https://filterlists.010.one/).
 
-- [**Collect**](https://github.com/xarantolus/Collect "66 stars, 9 forks"): A server to collect & archive websites that also supports video downloads
-- [**sensibleHub**](https://github.com/xarantolus/sensibleHub "15 stars"): self-hosted music management server with a web interface and FTP sync for offline listening
-- [**upduck**](https://github.com/xarantolus/upduck "100 stars"): simple web server that integrates with DuckDNS & Let's Encrypt
-- [**reeesolve**](https://github.com/xarantolus/reeesolve "one star"): Server for resolving redirect URLs
-
-#### Android
-I started with lower-level stuff by creating a Magisk module that directly interacts with the screen, then I started writing apps using Flutter
-
-- [**backtap**](https://github.com/xarantolus/backtap "5 stars, one fork"): Magisk module for Android that taps the screen when the fingerprint sensor is tapped
-- [**notality**](https://github.com/xarantolus/notality "4 stars"): A very simple note taking app for Android
-- [**rockit**](https://github.com/xarantolus/rockit "5 stars"): Rock It! is an Android app that helps you stay informed on all things space
-- [**fdroid**](https://github.com/xarantolus/fdroid "11 stars, 2 forks"): Auto-updating F-Droid repo using GitHub Actions
-- [**filtrite**](https://github.com/xarantolus/filtrite "172 stars, 167 forks"): Custom AdBlock filterlist generator for Bromite
-- [**filtrite-lists**](https://github.com/xarantolus/filtrite-lists "2 stars"): Bromite custom filter list search
-- [**bromite-userscripts**](https://github.com/xarantolus/bromite-userscripts "80 stars, 8 forks"): User scripts for Bromite (mostly enhanced Ad/Annoyance Blocking)
-
-#### Robotics
-
-- [**gover**](https://github.com/xarantolus/gover "2 stars, one fork"): Raspberry Pi powered rover that can be controlled using a smartphone, PC or Xbox controller
-
-#### Bots
-
-- [**spacex-hop-bot**](https://github.com/xarantolus/spacex-hop-bot "2 stars, one fork"): Twitter bot that (re)tweets relevant info about the SpaceX Starship
-- [**rfa-launch-bot**](https://github.com/xarantolus/rfa-launch-bot): Twitter bot that (re)tweets relevant information about Rocket Factory Augsburg
-- [**poliwiki**](https://github.com/xarantolus/poliwiki "3 stars"): Twitter-Bot, der interessante Änderungen an Wiki-Einträgen von Politikern postet
-
-#### Developer tools
-
-- [**MemeAssembly-vscode**](https://github.com/xarantolus/MemeAssembly-vscode "2 stars, one fork"): VSCode extension for MemeAssembly developers
-- [**jsonextract**](https://github.com/xarantolus/jsonextract "6 stars"): Go package for finding and extracting any JavaScript object (not just JSON) from an io.Reader
-- [**github-release-stats**](https://github.com/xarantolus/github-release-stats "one star"): Summarize release stats for your repositories
-- [**go-tools**](https://github.com/xarantolus/go-tools): Helper for formatting date & time strings in Go
-
-#### Other
-
-- [**subresource_filter_tools**](https://github.com/xarantolus/subresource_filter_tools "7 stars"): Scripts that build Chromium's subresource_filter_tools (including ruleset_converter) for both Linux and Windows. These tools can be used to generate ad block filters for Bromite
-- [**asm-bf**](https://github.com/xarantolus/asm-bf): abf is a Brainfuck interpreter written in x86-64 Assembly
-- [**memeasm**](https://github.com/xarantolus/memeasm "one star"): Programs written in MemeAssembly
-- [**userchrome.css**](https://github.com/xarantolus/userchrome.css "8 stars"): Firefox Proton userChrome.css customizations
-- [**TUM-userscripts**](https://github.com/xarantolus/TUM-userscripts "one fork"): User scripts for online services of the Technical University of Munich
-- [**ImageSort**](https://github.com/xarantolus/ImageSort "2 stars"): Sort thousands of images in less time
-
-
-So you've reached the end of this overview, but maybe you want to visit <a href="https://010.one/"><b>the web site</b></a> now?
- 
-</details>
+This was just a broad overview, you can [**find even more projects on my website**](https://010.one).
