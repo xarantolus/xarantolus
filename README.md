@@ -10,6 +10,6 @@ The most technically interesting project you can find on my profile is definitel
 
 Other than that I've also written a few Android apps, which you can download by adding [this F-Droid repo](https://github.com/xarantolus/fdroid) to your [F-Droid](https://f-droid.org/) client (or just download the APK releases from GitHub). If you like rockets, you'll feel right at home with my [Space News App](https://github.com/xarantolus/rockit).
 
-Additionally, I also like building self-hostable web servers and respective frontends, like my [music sync](https://github.com/xarantolus/sensibleHub) or [web archive](https://github.com/xarantolus/Collect) servers. I've also been getting into more modern web development with VueJS by writing [this GitHub release stats](https://ghstats.010.one/) site as well as a small [filter list search site](https://filterlists.010.one/).
+Additionally, I also like building self-hostable web servers and respective frontends, like my [music sync](https://github.com/xarantolus/sensibleHub) or [web archive](https://github.com/xarantolus/Collect) servers. I've also been getting into more modern web development with VueJS by writing [this GitHub release stats](https://ghstats.010.one/) site, an [Artemgus Generator](https://artemgus.010.one/) as well as a small [filter list search site](https://filterlists.010.one/).
 
 This was just a broad overview, you can [**find even more projects on my website**](https://010.one).
