@@ -5,6 +5,7 @@ I like:
 * Building web servers and web apps
 * Writing mobile apps using Flutter
 * Tinkering with electronics (think connecting sensors, motors etc. to Raspberry Pis and other robotics)
+* Introducing automation in areas where it is typically neglected despite making sense
 
 The most technically interesting project you can find on my profile is definitely [my x86-64 emulator for WebAssembly](https://github.com/xarantolus/ax). It allows you to emulate a small x86-64 subset [right in your browser](https://ax.010.one) and powers [another x86 related project of mine](https://github.com/xarantolus/MemeAssembly-playground-vue).
 
