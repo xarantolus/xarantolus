@@ -13,4 +13,4 @@ Other than that I've also written a few Android apps, which you can download by 
 
 Additionally, I also like building self-hostable web servers and respective frontends, like my [music sync](https://github.com/xarantolus/sensibleHub) or [web archive](https://github.com/xarantolus/Collect) servers. I've also been getting into more modern web development with VueJS by writing [this GitHub release stats](https://ghstats.010.one/) site as well as a small [filter list search site](https://filterlists.010.one/).
 
-This was just a broad overview, you can [**find even more projects on my website**](https://010.one).
+This was just a broad overview, you can [**find even more projects and my CV on my website**](https://010.one).
