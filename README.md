@@ -1,11 +1,10 @@
 Hi, I'm Philipp. I'm currently studying computer science at the [Technical University of Munich](https://www.tum.de) and program a lot in my free time.
 
 I like:
-* Computer architecture and low-level programming
-* Building web servers and web apps
-* Writing mobile apps using Flutter
-* Tinkering with electronics (think connecting sensors, motors etc. to Raspberry Pis and other robotics)
-* Introducing automation in areas where it is typically neglected despite making sense
+* Computer Architecture, Operating Systems and low-level programming
+* Building web servers, websites and mobile apps
+* Tinkering with electronics and embedded hardware (Raspberry Pi, STM32)
+* Cool space stuff (embedded development in a space-focused student club at TUM)
 
 The most technically interesting project you can find on my profile is definitely [my x86-64 emulator for WebAssembly](https://github.com/xarantolus/ax). It allows you to emulate a small x86-64 subset [right in your browser](https://ax.010.one) and powers [another x86 related project of mine](https://github.com/xarantolus/MemeAssembly-playground-vue).
 
